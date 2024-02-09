@@ -80,7 +80,7 @@ sᴇɴᴅ ɪᴍᴀɢᴇ ᴛᴏ sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ
 
 ᴇɢ:- 
 
-<b>{file_name}</b>
+<b>{filename}</b>
 
 File Size: <b>{file_size}</b>
 
